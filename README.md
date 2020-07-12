@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**caiocichetti/caiocichetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**caiocichetti/caiocichetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --->
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:www.linkedin.com/in/caio-antonio-cichetti-roberto)](www.linkedin.com/in/caio-antonio-cichetti-roberto)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/CaioCichetti)](https://twitter.com/CaioCichetti)
