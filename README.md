@@ -8,4 +8,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:caiocichetti08@gmail.com)](mailto:caiocichetti08@gmail.com)
 
 - 🔭 I am working on personal projects focused on the backend using some technologies such as Node, TypeScript and Java. I am also producing the prototype of my technical course tcc with php.
-- 🌱 I’m currently learning Node, TypeScript, Java and NoSQL
+- 🌱 I’m currently learning Java and NoSQL.
