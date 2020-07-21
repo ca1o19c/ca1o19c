@@ -10,5 +10,5 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/CaioCichetti)](https://twitter.com/CaioCichetti)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:caiocichetti08@gmail.com)](mailto:caiocichetti08@gmail.com)
 
-- 🔭 I am working on personal projects focused on the backend using some technologies such as Node, TypeScript and Java. I am also producing the prototype of my technical course tcc with php.
+- 👨🏻‍🔧 I am working on personal projects focused on the backend using some technologies such as Node, TypeScript and Java. I am also producing the prototype of my technical course tcc with php.
 - 👨🏻‍💻 I’m currently learning Java and NoSQL.
