@@ -9,7 +9,9 @@
 - 👨🏻‍🔧 I am working on personal projects focused on the backend using some technologies such as Node, TypeScript and Java. I am also producing the prototype of my technical course tcc with php.
 - 👨🏻‍💻 I’m currently learning Java and NoSQL.
 
-<img src="https://github-readme-stats.vercel.app/api?username=caiocichetti&show_icons=true" alt="caiocichetti" /> </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=caiocichetti&show_icons=true" alt="caiocichetti" /> 
+</div>
 
 <p align="center">
 <a href="https://codepen.io/caiocichetti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="caiocichetti" height="20" width="20" /></a>
