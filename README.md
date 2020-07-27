@@ -6,7 +6,7 @@
 ## I'm a Information technology student
 
 
-### 👨🏻‍🔧 STACKS:
+### 👨🏻‍🔧 Stacks:
 - JAVA
 - C#
 - NODE.JS
