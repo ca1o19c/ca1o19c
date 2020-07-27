@@ -6,8 +6,12 @@
 ## I'm a Information technology student
 
 
-- 👨🏻‍🔧 I am working on personal projects focused on the backend using some technologies such as Node, TypeScript and Java. I am also producing the prototype of my technical course tcc with php.
-- 👨🏻‍💻 I’m currently learning Java and NoSQL.
+### 👨🏻‍🔧 STACKS:
+- JAVA
+- C#
+- NODE.JS
+- PYTHON
+### 👨🏻‍💻 I’m currently learning Java and NoSQL.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=caiocichetti&show_icons=true" alt="caiocichetti" /> 
