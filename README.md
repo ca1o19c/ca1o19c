@@ -13,6 +13,7 @@
 ### 👨🏻‍🔧 Stacks:
 - JAVA
 - C#
+- PHP
 - NODE.JS
 - PYTHON
 ### 👨🏻‍💻 I’m currently learning Java and NoSQL.
