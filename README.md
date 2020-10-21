@@ -5,11 +5,14 @@
 
 ## I'm a Information technology student
 
+[![Gist Badge](https://img.shields.io/badge/-Gist-555859?style=flat-square&logo=Github&logoColor=white&link=https://gist.github.com/caiocichetti)](https://gist.github.com/caioagiani)
 
-[![Twitter Badge](https://img.shields.io/badge/-@CaioCichetti-0984e3?style=flat-square&labelColor=0984e3&logo=twitter&logoColor=white&link=https://twitter.com/CaioCichetti)](https://twitter.com/CaioCichetti) 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/caioagiani)](https://github.com/caioagiani)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Caio%20A%20C%20Roberto-0984e3?style=flat-square&labelColor=0984e3&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-antonio-cichetti-roberto/)](https://www.linkedin.com/in/caio-antonio-cichetti-roberto/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caioagiani/)](https://www.linkedin.com/in/caioagiani/)
 
-[![Gmail Badge](https://img.shields.io/badge/-caiocichetti08gmail.com-d63031?style=flat-square&labelColor=d63031&logo=Gmail&logoColor=white&link=mailto:caiocichetti08gmail.com)](caiocichetti08gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caio.agiani14@gmail.com)](mailto:caio.agiani14@gmail.com)
+
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/caioagiani/)](https://t.me/caioagiani/)
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=caiocichetti&hide=[%22issues%22,%22prs%22,%22contribs%22]&show_icons=true&theme=default)](https://github.com/caiocichetti)
