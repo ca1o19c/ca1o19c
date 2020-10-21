@@ -3,13 +3,13 @@
 
 ## Workflow
 ![Linux](https://img.shields.io/badge/-Linux-555859?style=flat-square&logoColor=fff&logo=linux)
-![Docker](https://img.shields.io/badge/-Docker-099cec?style=flat&logoColor=fff&logo=docker)
-![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)
-![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=The Only Real Dev Language)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)
-![Adonisjs](https://img.shields.io/badge/-Adonisjs-220052?style=flat&logoColor=fff&logo=adonisjs)
-![PHP](https://img.shields.io/badge/-PHP-369?style=flat&logoColor=fff&logo=php)
-![Laravel](https://img.shields.io/badge/-Laravel-ff2d20?style=flat&logoColor=fff&logo=laravel)
+![Docker](https://img.shields.io/badge/-Docker-099cec?style=flat-square&logoColor=fff&logo=docker)
+![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat-square&logoColor=fff&logo=javascript)
+![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat-square&logoColor=fff&logo=Node.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logoColor=fff&logo=typescript)
+![Adonisjs](https://img.shields.io/badge/-Adonisjs-220052?style=flat-square&logoColor=fff&logo=adonisjs)
+![PHP](https://img.shields.io/badge/-PHP-369?style=flat-square&logoColor=fff&logo=php)
+![Laravel](https://img.shields.io/badge/-Laravel-ff2d20?style=flat-square&logoColor=fff&logo=laravel)
 
 [![Gist Badge](https://img.shields.io/badge/-Gist-555859?style=flat-square&logo=Github&logoColor=white&link=https://gist.github.com/caiocichetti)](https://gist.github.com/caiocichetti)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/caiocichetti)](https://github.com/caiocichetti)
