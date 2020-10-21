@@ -2,10 +2,10 @@
 **caiocichetti/caiocichetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ## Workflow
-![Linux](https://img.shields.io/badge/-Linux-555859?style=flat&logoColor=fff&logo=linux)
+![Linux](https://img.shields.io/badge/-Linux-555859?style=flat-square&logoColor=fff&logo=linux)
 ![Docker](https://img.shields.io/badge/-Docker-099cec?style=flat&logoColor=fff&logo=docker)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)
-![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)
+![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=The Only Real Dev Language)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)
 ![Adonisjs](https://img.shields.io/badge/-Adonisjs-220052?style=flat&logoColor=fff&logo=adonisjs)
 ![PHP](https://img.shields.io/badge/-PHP-369?style=flat&logoColor=fff&logo=php)
