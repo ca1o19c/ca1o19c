@@ -2,7 +2,7 @@
 **caiocichetti/caiocichetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ## I'm Caio Cichetti!
 
-### Networking
+### 🌐 Networking
 [![Gist Badge](https://img.shields.io/badge/-Gist-555859?style=flat-square&logo=Github&logoColor=white&link=https://gist.github.com/caiocichetti)](https://gist.github.com/caiocichetti)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/caiocichetti)](https://github.com/caiocichetti)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-antonio-cichetti-roberto/)](https://www.linkedin.com/in/caio-antonio-cichetti-roberto/)
