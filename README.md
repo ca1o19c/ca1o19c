@@ -19,4 +19,4 @@
 ![PHP](https://img.shields.io/badge/-PHP-369?style=flat-square&logoColor=fff&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-ff2d20?style=flat-square&logoColor=fff&logo=laravel)
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=caiocichetti&hide=[%22issues%22,%22prs%22,%22contribs%22]&show_icons=true&theme=default)](https://github.com/caiocichetti)
+![Github stats](https://github-readme-stats.vercel.app/api?username=caiocichetti&show_icons=true&theme=dracula)
