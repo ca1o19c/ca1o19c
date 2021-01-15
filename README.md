@@ -3,6 +3,7 @@
 
 ## I´m Caio, student of Computer Engineering!
 ### Dev in his spare time!
+### :speech_balloon: Ask me about Linux :penguin:
 
 ### 🌐 Networking
 [![Gist Badge](https://img.shields.io/badge/-Gist-555859?style=flat-square&logo=Github&logoColor=white&link=https://gist.github.com/caiocichetti)](https://gist.github.com/caiocichetti)
