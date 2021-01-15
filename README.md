@@ -2,7 +2,7 @@
 **caiocichetti/caiocichetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ## I´m Caio, student of Computer Engineering and works in the IT Infrastructure area!
-
+### Dev in his spare time!
 
 ### 🌐 Networking
 [![Gist Badge](https://img.shields.io/badge/-Gist-555859?style=flat-square&logo=Github&logoColor=white&link=https://gist.github.com/caiocichetti)](https://gist.github.com/caiocichetti)
