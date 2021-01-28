@@ -2,7 +2,9 @@
 **caiocichetti/caiocichetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ## I´m Caio, student of Computer Engineering!
-### Dev in his spare time!
+
+![Metrics](https://metrics.lecoq.io/caiocichetti?template=classic&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=America%2FSao_Paulo&config.animated=true)
+
 ### :speech_balloon: Ask me about Linux :penguin:
 
 ### 🌐 Networking
@@ -22,5 +24,4 @@
 ![PHP](https://img.shields.io/badge/-PHP-369?style=flat-square&logoColor=fff&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-ff2d20?style=flat-square&logoColor=fff&logo=laravel)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=caiocichetti&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiocichetti&layout=compact&theme=dracula)
+
