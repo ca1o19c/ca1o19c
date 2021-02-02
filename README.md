@@ -4,8 +4,6 @@
 ## Student of Computer Engineering!
 ## Dev in his spare time!
 
-![Metrics](https://metrics.lecoq.io/caiocichetti?template=classic&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=America%2FSao_Paulo&config.animated=true)
-
 ### :speech_balloon: Ask me about Linux :penguin:
 
 [![Gist Badge](https://img.shields.io/badge/-Gist-555859?style=flat-square&logo=Github&logoColor=white&link=https://gist.github.com/caiocichetti)](https://gist.github.com/caiocichetti)
