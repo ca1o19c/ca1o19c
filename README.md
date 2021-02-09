@@ -2,7 +2,7 @@
 **caiocichetti/caiocichetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ## Student of Computer Engineering!
-## Dev in his spare time!
+**Dev in his spare time!**
 
 ![estatísticas](https://metrics.lecoq.io/caiocichetti?template=classic&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=America%2FSao_Paulo&config.animated=true)
 
