@@ -3,10 +3,10 @@
 # Hello, I'm Caio!
 ## Student of Computer Engineering!
 
-<a href="https://github.com/caiocichetti">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocichetti&hide=java,html&title_color=d0d0d0&text_color=d0d0d0&icon_color=d0d0d0&bg_color=2D2D2F" alt=Thalias's GitHub Stats" />
+<a href="https://github.com/caiocichetti/caiocichetti">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocichetti&hide=java,html&title_color=d0d0d0&text_color=d0d0d0&icon_color=d0d0d0&bg_color=2D2D2F" alt=Caio's GitHub Stats" />
 </a>
-<a href="https://github.com/caiocichetti">
+<a href="https://github.com/caiocichetti/caiocichetti">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=caiocichetti&show_icons=true&line_height=27&count_private=true&title_color=d0d0d0&text_color=d0d0d0&icon_color=d0d0d0&bg_color=2D2D2F" />
 </a>
 
