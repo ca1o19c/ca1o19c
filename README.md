@@ -1,6 +1,6 @@
 <!--
 **caiocichetti/caiocichetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-# Hello, I'm Caio
+# Hello, I'm Caio!
 ## Student of Computer Engineering!
 
 <a href="https://github.com/caiocichetti/caiocichetti">
