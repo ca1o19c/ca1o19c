@@ -10,9 +10,9 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/caiocichetti/" />
-  <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiocichetti08@gmail.com" />
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-antonio-cichetti-roberto/" />
+  <a href="https://t.me/caiocichetti/"><img src="https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:caiocichetti08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/caio-antonio-cichetti-roberto/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=" /></a>
 </div>
 
 - 🔭 I’m currently working as a technical support intern
