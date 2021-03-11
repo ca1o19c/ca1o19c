@@ -5,7 +5,7 @@
 <h1 align="center">Hey 👋, I'm Caio</h1>
 <h3 align="center">Student of Computer Engineering!</h3>
 
-<div align="center">
+<div align="center" style="paadding-bottom: 2rem;">
   <img src="https://github-readme-stats.vercel.app/api?username=caiocichetti&hide=issues&show_icons=true&theme=synthwave" />
 </div>
 
