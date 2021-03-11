@@ -19,4 +19,4 @@
 
 - ⚡ Fun fact **I ❤️️ ☕**
 
-![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiocichetti&show_icons=true&theme=radical)
+![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiocichetti&show_icons=true&theme=dracula)
