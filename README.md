@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working as a technical support intern
 
-- 🌱 I’m currently learning **NodeJS, Java, WSO2 and Spring Boot**
+- 🌱 I’m currently learning **NodeJS, Java and WSO2**
 
 - 💬 Ask me about **Linux 🐧**
 
