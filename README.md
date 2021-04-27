@@ -19,6 +19,6 @@
 
 - 📫 How to reach me **caiocichetti08@gmail.com**
 
-- ⚡ Fun fact **I ❤️️ ☕**
+- ⚡ Fun fact **I ❤️️☕**
 
 
