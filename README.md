@@ -13,7 +13,7 @@
 
 - 🔭 I'm currently working at Sensedia as a development intern
 
-- 🌱 I’m currently learning **NodeJS, Java and Microservices**
+- 🌱 I’m currently learning **Node.js, Java and Microservices**
 
 - 💬 Ask me about **Linux 🐧**
 
