@@ -11,9 +11,9 @@
   <a href="https://www.linkedin.com/in/caio-antonio-cichetti-roberto/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=" /></a>
 </div>
 
-- 🔭 I’m currently working as a technical support intern
+- 🔭 I'm currently working at @Sensedia as a development intern
 
-- 🌱 I’m currently learning **NodeJS, Java and Kotlin**
+- 🌱 I’m currently learning **NodeJS, Java and Microservices**
 
 - 💬 Ask me about **Linux 🐧**
 
