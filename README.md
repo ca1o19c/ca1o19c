@@ -6,14 +6,13 @@
 <h3 align="center">Student of Computer Engineering!</h3>
 
 <div align="center">
-  <a href="https://t.me/caioantonio/"><img src="https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:caiocichetti08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/caio-antonio-cichetti-roberto/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=" /></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ca1o19c&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ca1o19c&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
 - 🔭 I'm currently working at [**Sensedia**](https://br.sensedia.com/) as a developer intern
 
-- 🌱 I’m currently learning **Node.js, Java and Microservices**
+- 🌱 I’m currently learning **Node.js, Java, Microservices and Hexagonal Architecture**
 
 - 💬 Ask me about **Linux 🐧**
 
