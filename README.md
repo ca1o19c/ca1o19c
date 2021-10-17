@@ -6,7 +6,11 @@
 
 ## :speech_balloon: Info
 
-Hey! I've been building my career as a software developer for the backend. Currently working with JAVA and Spring Boot in conjunction with the Azure platform. Working on specific projects using scrum, microservices, hexagonal architecture along with TDD and DDD. I'm always learning about the technologies I work with, and i'm aware of the new technologies that might be useful in the future.
+Hello there, I've been building my career as a software developer for the backend. Currently working with Java and Spring Boot. Working on specific projects using microservices, hexagonal architecture and event-oriented. Integration parttners: Rest, GraphQL, API Gateway. Cloud: AWS, Azure. I'm always learning about the technologies I work with, and i'm aware of the new technologies that might be useful in the future.
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ca1o19c&layout=compact&theme=radical"/> 
+</div>
 
 ## :eyeglasses: Contact
 
