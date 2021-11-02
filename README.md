@@ -1,6 +1,6 @@
 # :coffee: Caio Antonio
 
-:technologist: Developer [@Sensedia](https://github.com/Sensedia)  
+:technologist: Software Developer [@Sensedia](https://github.com/Sensedia)  
 :star: Student of Computer Engineering [@USF](https://www.usf.edu.br/)  
 💬 Ask me about **Linux 🐧**
 
