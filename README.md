@@ -7,6 +7,7 @@
 ## :speech_balloon: Info
 
 #### Hello :wave:
+
 I've been building my career as a software developer for the backend. Currently working with Java, Spring Boot and .NET Core. Working on specific projects using microservices, hexagonal architecture and event-oriented. Integration parttners: Rest, GraphQL, API Gateway, Event Hub and Service Mesh. Cloud: AWS, Azure. I'm always learning about the technologies I work with, and i'm aware of the new technologies that might be useful in the future.
 
 <div align="center">
