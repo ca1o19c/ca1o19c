@@ -8,7 +8,7 @@
 
 #### Hello :wave:
 
-I've been building my career as a software developer for the backend. Currently working with Java, Spring Boot and .NET Core. Working on specific projects using microservices, hexagonal architecture and event-oriented. Integration parttners: Rest, GraphQL, API Gateway, Event Hub and Service Mesh. Cloud: AWS, Azure. I'm always learning about the technologies I work with, and i'm aware of the new technologies that might be useful in the future.
+I've been building my career as a software developer for the backend. Currently working with Java, Spring Boot and .NET. Working on specific projects using microservices, hexagonal architecture and event-oriented. Integration parttners: Rest, GraphQL, API Gateway, Event Hub and Service Mesh. Cloud: AWS, Azure. I'm always learning about the technologies I work with, and i'm aware of the new technologies that might be useful in the future.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?count_private=true&username=ca1o19c&layout=compact&theme=radical"/> 
