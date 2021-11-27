@@ -2,6 +2,7 @@
 
 :technologist: Software Developer [@Sensedia](https://github.com/Sensedia)  
 :star: ADS [@UNISAL](https://unisal.com.br)
+
 💬 Ask me about **Linux 🐧**
 
 ## :speech_balloon: Info
