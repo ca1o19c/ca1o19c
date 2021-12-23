@@ -6,13 +6,17 @@
 
 ## :speech_balloon: Info
 
-#### Hello :wave:
+#### Hi :wave:
 
-I've been building my career as a software developer for the backend. Currently working with Java, Spring Boot and .Net. Working on specific projects using microservices, hexagonal architecture and event-oriented. Integration parttners: Rest, GraphQL, API Gateway, Events Hub and Service Mesh. Cloud: Azure. I'm always learning about the technologies I work with, and i'm aware of the new technologies that might be useful in the future.
+I've been building my career as a software developer for the backend. Currently working with Sensedia API Platform, Java and Spring Boot. Working on specific projects using microservices, hexagonal architecture and event-oriented. Integration of partners through architectures: Rest, GraphQL, Events Hub. Cloud: Azure. I'm always learning about the technologies I work with, and i'm aware of the new technologies that might be useful in the future.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?count_private=true&username=ca1o19c&layout=compact&theme=radical"/> 
-</div>
+<details>
+  <summary>:zap: Languages Used</summary>
+  <br/>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?count_private=true&username=ca1o19c&layout=compact&theme=radical"/> 
+  </div>
+</details>
 
 ## :eyeglasses: Contact
 
