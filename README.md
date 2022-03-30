@@ -6,7 +6,7 @@
 
 ## :speech_balloon: Info
 
-#### Hi :wave:
+#### Hey :wave:
 
 I've been building my career as a software developer for the backend. Currently working with Sensedia API Platform, Java and Spring Boot. Working on specific projects using microservices, hexagonal architecture and event-oriented. Integration of partners through architectures: Rest and GraphQL. I'm always learning about the technologies I work with, and i'm aware of the new technologies that might be useful in the future.
 
