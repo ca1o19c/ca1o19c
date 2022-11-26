@@ -13,7 +13,7 @@ I've been building my career as a software developer for the back-end. Currently
   <summary>:zap: Languages used</summary>
   <br/>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?count_private=false&username=caioantoniodev&layout=compact&theme=radical"/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?count_private=true&username=caioantoniodev&layout=compact&theme=radical"/> 
   </div>
 </details>
 
