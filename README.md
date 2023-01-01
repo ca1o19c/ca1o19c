@@ -7,7 +7,7 @@
 
 #### Hey :wave:
 
-I've been building my career as a software developer for the back-end. Currently working with Sensedia API Platform, Java and Spring Boot. Working on specific projects using microservices, hexagonal architecture and event architecture. Integration of partners through architectures: Cloud, Rest and GraphQL. 
+I've been building my career as a software developer for the back-end. Currently working with Sensedia API Platform, C#, .NET, Java and Spring Boot. Working on specific projects using microservices, hexagonal architecture and event architecture. Integration of partners through architectures: Cloud, Rest and GraphQL. 
 
 <details>
   <summary>:zap: Languages used</summary>
