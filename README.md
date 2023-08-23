@@ -1,6 +1,6 @@
 # :coffee: Caio Antonio
 
-:technologist: Back-end Developer [@Sensedia](https://github.com/Sensedia)  
+:technologist: Java Software Engineer [@ZENVIA](https://github.com/zenvia)  
 :star: ADS [@USF](https://www.usf.edu.br/)<br/>
 
 ## :speech_balloon: Info
