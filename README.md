@@ -7,7 +7,7 @@
 
 #### Hey :wave:
 
-I've been building my career as a software developer for the back-end. Currently working with Java, Spring Boot and Kafka. Working on specific project using microservices, event architecture and containers. Integration of services through architectures: Cloud, Brokers and Rest. 
+I've been building my career as a software developer for the back-end. Currently working with Java, Spring Boot and Kafka. Working on specific project using microservices, event architecture and containers. Integration of services through architectures: Brokers and Rest. 
 
 ## :zap: Technologies used
 
