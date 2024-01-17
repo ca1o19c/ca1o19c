@@ -35,4 +35,4 @@ I've been building my career as a software developer for the back-end. Currently
 ## :eyeglasses: Contact
 
 :mailbox_with_mail: email: [caio.antonio.c@outlook.com](mailto:caiocichetti08@gmail.com)  
-:link: linkedin: [Caio Antonio](https://www.linkedin.com/in/caio-antonio-cichetti-roberto/)
+:link: linkedin: [Caio Antonio](https://www.linkedin.com/in/caioantoniocr)
