@@ -11,7 +11,11 @@ I'm passionate about crafting robust back-end solutions and have been honing my 
 
 🚀 Currently, I'm working the ship on a thrilling project that revolves around microservices, event-driven architecture, and the seamless orchestration of containers. I thrive on the challenges of designing and implementing solutions that stand the test of scalability and complexity.
 
-🌐 My expertise extends to the integration of services through diverse architectures, including EDA(Event-Driven Architecture) and REST(Representational State Transfer). I thrive in crafting well-designed systems that communicate seamlessly, fostering a cohesive ecosystem.
+🌐 My expertise extends to the integration of services through diverse architectures, including EDA (Event-Driven Architecture) and REST (Representational State Transfer). I thrive in crafting well-designed systems that communicate seamlessly, fostering a cohesive ecosystem.
+
+💻 Additionally, I am well-versed in the world of containers, with a proficiency in Docker for efficient packaging and deployment. Kubernetes is another cornerstone of my toolkit, empowering me to orchestrate and scale containerized applications with ease.
+
+🔧 Complementing these technologies, I wield the power of shell scripting to automate and streamline various aspects of the development and deployment lifecycle. This not only enhances efficiency but also ensures a smooth and consistent operation of systems.
 
 💡 Currently, I'm deeply engaged with Java, working across versions 8, 11, and 17, harnessing the power of Spring Boot. My toolkit includes Kafka for robust event streaming and Kafka Streams for real-time data processing. When it comes to integrations, I seamlessly connect with RESTful services, ensuring a smooth flow of data.
 
