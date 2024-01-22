@@ -47,43 +47,50 @@ Let's continue the coding journey, exploring new horizons and creating impactful
 
 ## My Setup 🖥️🎮
 
-#### Work/Study
+#### 
 
-- **Laptop:** Macbook Air M1 [8GB 256GB]
+<details>
+<summary>Studies 👨🏻‍💻</summary>
   
-- **Peripherals:**
-  - Keyboard [Cooler Master CK721]
-  - Mouse [Cooler Master MM731]
-  - Monitor [LG Ultrawide 25" 75hz]
+  - **Laptop:** Macbook Air M1 [8GB 256GB]
     
-- **Tools:** 
-  - JetBrains Toolbox [InttelliJ and DataGrip]
-  - VSCode
-  - Iterm2 [Fish and Spaceship]
-  - Postico
-  - Insominia
-  - Red
-  - NoSQL Workbench
-  - Mongosh
-  - KCat
+  - **Peripherals:**
+    - Keyboard [Cooler Master CK721]
+    - Mouse [Cooler Master MM731]
+    - Monitor [LG Ultrawide 25" 75hz]
+      
+  - **Tools:** 
+    - JetBrains Toolbox [InttelliJ and DataGrip]
+    - VSCode
+    - Iterm2 [Fish and Spaceship]
+    - Postico
+    - Insominia
+    - Red
+    - NoSQL Workbench
+    - Mongosh
+    - KCat
+</details>
 
-#### Gaming 🎮
+<details>
+<summary>Gaming 🎮</summary>
 
-- **Gaming PC:**
-  - Ryzen 5 5600
-  - 32GB DDR4
-  - GTX 1650
-  - SSD NVMe 256GB [SO]
-  - SSD NVMe 2TB [Data]
-  - Water Cooler 240mm
-    
-- **Peripherals:**
-  - Keyboard [Cooler Master CK721]
-  - Mouse [Cooler Master MM731]
-  - Monitor [LG Ultragear 24" 144hz]
-  - Headset [Hyper Cloud Stinger Wirelles]
-    
-- **Other:** [Any other specific details about your gaming setup]
+  - **Gaming PC:**
+    - Ryzen 5 5600
+    - 32GB DDR4
+    - GTX 1650
+    - SSD NVMe 256GB [SO]
+    - SSD NVMe 2TB [Data]
+    - Water Cooler 240mm
+      
+  - **Peripherals:**
+    - Keyboard [Cooler Master CK721]
+    - Mouse [Cooler Master MM731]
+    - Monitor [LG Ultragear 24" 144hz]
+    - Headset [Hyper Cloud Stinger Wirelles]
+      
+  - **Other:** [Any other specific details about your gaming setup]
+
+</details>
 
 ## :eyeglasses: Contact
 
