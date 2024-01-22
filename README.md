@@ -45,6 +45,46 @@ Let's continue the coding journey, exploring new horizons and creating impactful
 <br />
 <br />
 
+## My Setup 🖥️🎮
+
+#### Work/Study
+
+- **Laptop:** Macbook Air M1 [8GB 256GB]
+  
+- **Peripherals:**
+  - Keyboard [Cooler Master CK721]
+  - Mouse [Cooler Master MM731]
+  - Monitor [LG Ultrawide 25" 75hz]
+    
+- **Tools:** 
+  - JetBrains Toolbox [InttelliJ and DataGrip]
+  - VSCode
+  - Iterm2 [Fish and Spaceship]
+  - Postico
+  - Insominia
+  - Red
+  - NoSQL Workbench
+  - Mongosh
+  - KCat
+
+#### Gaming 🎮
+
+- **Gaming PC:**
+  - Ryzen 5 5600
+  - 32GB DDR4
+  - GTX 1650
+  - SSD NVMe 256GB [SO]
+  - SSD NVMe 2TB [Data]
+  - Water Cooler 240mm
+    
+- **Peripherals:**
+  - Keyboard [Cooler Master CK721]
+  - Mouse [Cooler Master MM731]
+  - Monitor [LG Ultragear 24" 144hz]
+  - Headset [Hyper Cloud Stinger Wirelles]
+    
+- **Other:** [Any other specific details about your gaming setup]
+
 ## :eyeglasses: Contact
 
 :mailbox_with_mail: email: [caio.antonio.c@outlook.com](mailto:caiocichetti08@gmail.com)  
