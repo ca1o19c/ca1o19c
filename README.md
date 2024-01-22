@@ -5,10 +5,19 @@
 
 ## :speech_balloon: Info
 
-#### Hey :wave:
+#### 👋 Hello there!
 
-I've been building my career as a software developer for the back-end. Currently working with Java, Spring Boot and Kafka. Working on specific project using microservices, event architecture and containers. Integration of services through architectures: Brokers and Rest. 
+I'm passionate about crafting robust back-end solutions and have been honing my skills as a software developer. Currently immersed in the world of Java, Spring Boot, and Kafka, I find joy in building scalable and efficient systems.
 
+🚀 Currently, I'm working the ship on a thrilling project that revolves around microservices, event-driven architecture, and the seamless orchestration of containers. I thrive on the challenges of designing and implementing solutions that stand the test of scalability and complexity.
+
+🌐 My expertise extends to the integration of services through diverse architectures, including EDA(Event-Driven Architecture) and REST(Representational State Transfer). I thrive in crafting well-designed systems that communicate seamlessly, fostering a cohesive ecosystem.
+
+💡 Currently, I'm deeply engaged with Java, working across versions 8, 11, and 17, harnessing the power of Spring Boot. My toolkit includes Kafka for robust event streaming and Kafka Streams for real-time data processing. When it comes to integrations, I seamlessly connect with RESTful services, ensuring a smooth flow of data.
+
+🔗 In addition to my proficiency in microservices, I navigate the intricacies of both relational and non-relational databases. I believe in the art of building resilient, scalable solutions that not only meet current needs but are also prepared for the challenges of tomorrow.
+
+Let's continue the coding journey, exploring new horizons and creating impactful software together! 💻✨
 ## :zap: Technologies used
 
 <img align="left" alt="Tux" width="26px" src="https://user-images.githubusercontent.com/58996814/210672715-96d6812c-3358-4395-90a0-be9ba85ba3d7.png" />
