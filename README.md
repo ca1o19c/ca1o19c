@@ -89,7 +89,6 @@ Let's continue the coding journey, exploring new horizons and creating impactful
     - Headset [Hyper Cloud Stinger Wirelles]
       
   - **Other:** [Any other specific details about your gaming setup]
-
 </details>
 
 ## :eyeglasses: Contact
