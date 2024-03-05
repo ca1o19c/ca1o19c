@@ -47,8 +47,6 @@ Let's continue the coding journey, exploring new horizons and creating impactful
 
 ## My Setup 🖥️🎮
 
-#### 
-
 <details>
 <summary>Studies 👨🏻‍💻</summary>
   
