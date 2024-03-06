@@ -54,7 +54,7 @@ Let's continue the coding journey, exploring new horizons and creating impactful
     
   - **Peripherals:**
     - Keyboard [Cooler Master CK721]
-    - Mouse [Cooler Master MM731]
+    - Mouse [VXE Dragonfly R11 Series]
     - Monitor [LG Ultrawide 25" 75hz]
       
   - **Tools:** 
@@ -82,7 +82,7 @@ Let's continue the coding journey, exploring new horizons and creating impactful
       
   - **Peripherals:**
     - Keyboard [Cooler Master CK721]
-    - Mouse [Cooler Master MM731]
+    - Mouse [VXE Dragonfly R11 Series]
     - Monitor [LG Ultragear 24" 144hz]
     - Headset [Hyper Cloud Stinger Wirelles]
       
