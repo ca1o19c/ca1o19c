@@ -22,6 +22,7 @@ I'm passionate about crafting robust back-end solutions and have been honing my 
 🔗 In addition to my proficiency in microservices, I navigate the intricacies of both relational and non-relational databases. I believe in the art of building resilient, scalable solutions that not only meet current needs but are also prepared for the challenges of tomorrow.
 
 Let's continue the coding journey, exploring new horizons and creating impactful software together! 💻✨
+
 ## :zap: Technologies used
 
 <img align="left" alt="Tux" width="26px" src="https://user-images.githubusercontent.com/58996814/210672715-96d6812c-3358-4395-90a0-be9ba85ba3d7.png" />
