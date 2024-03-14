@@ -49,6 +49,7 @@ Let's continue the coding journey, exploring new horizons and creating impactful
 ## My Setup 🖥️🎮
 
 <details>
+  
 <summary>Studies 👨🏻‍💻</summary>
   
   - **Laptop:** Macbook Air M1 [8GB 256GB]
