@@ -27,7 +27,7 @@ Let's continue the coding journey, exploring new horizons and creating impactful
 
 <img align="left" alt="Tux" width="26px" src="https://user-images.githubusercontent.com/58996814/210672715-96d6812c-3358-4395-90a0-be9ba85ba3d7.png" />
 <img align="left" alt="Kubernetes" width="26px" src="https://github.com/caioantoniodev/caioantoniodev/assets/58996814/66ea289e-43eb-4c58-8e32-a6c534a82913" />
-<img align="left" alt="Kubernetes" width="26px" src="https://github.com/caioantoniodev/caioantoniodev/assets/58996814/6ca7e544-6638-44dc-96cc-76add67c2802" />
+<img align="left" alt="Rancher" width="26px" src="https://github.com/caioantoniodev/caioantoniodev/assets/58996814/6ca7e544-6638-44dc-96cc-76add67c2802" />
 <img align="left" alt="Docker" width="26px" src="https://user-images.githubusercontent.com/58996814/210672663-273bf564-be62-46ac-a15b-e04b7abb40e1.png" />
 <img align="left" alt="Aws" width="26px" src="https://user-images.githubusercontent.com/58996814/210672543-5f27130f-79c7-4855-95a2-53a8150db17f.png" />
 <img align="left" alt="Azure" width="26px" src="https://user-images.githubusercontent.com/58996814/210670950-454907fc-dc2c-47fb-9bd3-e778a1f363f3.png" />
@@ -40,7 +40,6 @@ Let's continue the coding journey, exploring new horizons and creating impactful
 <img align="left" alt="java" width="26px" src="https://user-images.githubusercontent.com/58996814/210672068-3287d0d0-5874-4a92-bb6d-64fca80660ca.png">
 <img align="left" alt="Spring" width="26px" src="https://user-images.githubusercontent.com/58996814/210671608-eaaad734-f3dd-49a0-8418-1781076abc2c.png" />
 <img align="left" alt="Quarkus" width="26px" src="https://user-images.githubusercontent.com/58996814/210672047-c5bfe10c-2d9d-4e2b-85bf-db654e178f64.png" />
-<img align="left" alt="DotNet" width="26px" src="https://user-images.githubusercontent.com/58996814/210671533-523f8555-4ef4-4adb-aef7-17ade2690f13.png" />
 <img align="left" alt="GoLang" width="26px" src="https://emojis.slackmojis.com/emojis/images/1454546974/291/golang.png?1454546974" />
 <img align="left" alt="Js" width="26px" src="https://user-images.githubusercontent.com/58996814/210673231-dff22a35-e5fc-44bd-8ec3-a63b64d14d02.png" />
 
