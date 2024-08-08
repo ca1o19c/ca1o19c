@@ -9,7 +9,7 @@
 
 Back-end developer with +3 years of experience continuously refining and innovating my software development practices. I've been helping companies grow their businesses by building cloud-native applications using Java, Spring Framework, and both relational and non-relational databases within a distributed architecture.
 
-## :zap: Technologies used
+## :zap: Stack
 
 <img align="left" alt="Tux" width="26px" src="https://user-images.githubusercontent.com/58996814/210672715-96d6812c-3358-4395-90a0-be9ba85ba3d7.png" />
 <img align="left" alt="Kubernetes" width="26px" src="https://github.com/caioantoniodev/caioantoniodev/assets/58996814/66ea289e-43eb-4c58-8e32-a6c534a82913" />
